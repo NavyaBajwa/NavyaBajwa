@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi! I'm Navya Bajwa 🧚‍♀️
+#### I'm a computer science student at Queen's University with a passion for computer vision, robotics, and ai.
 
+#### 🔭 I’m currently working on: making something with my raspberry pi.
+
+#### 🌱 I’m currently learning about: AI saftey, graphics, and the intersection of health and technology!
+
+#### 📫 How to reach me: Here's my [linkedin](www.linkedin.com/in/navyabajwa).
 <!--
 **NavyaBajwa/NavyaBajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
