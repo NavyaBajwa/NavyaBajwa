@@ -5,11 +5,11 @@
 
 #### 🔮 I’m currently learning about: AI saftey, graphics, and the intersection of health and technology.
 
-#### 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navya-bajwa).
+#### 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navyabajwa).
 <!--
 **NavyaBajwa/NavyaBajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
