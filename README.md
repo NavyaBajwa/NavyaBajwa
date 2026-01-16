@@ -1,7 +1,7 @@
 ## Hi! I'm Navya Bajwa 🧚‍♀️
 #### I'm a computer science student at Queen's University with a passion for computer vision, robotics, and ai.
 
-#### ⚡ I’m currently working on: making something with my raspberry pi!
+#### ⚡ I’m currently working on: Recognizing morse code (blinks) with computer vision and a custom CNN!
 
 #### 🔮 I’m currently learning about: AI saftey, graphics, and the intersection of health and technology.
 
