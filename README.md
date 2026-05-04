@@ -3,7 +3,7 @@
 
 #### ⚡ I’m currently working on: Recognizing morse code (blinks) with computer vision and a custom CNN!
 
-#### 🔮 I’m currently learning about: AI saftey, graphics, and the intersection of health and technology.
+#### 🔮 I’m currently learning about: AI safety, graphics, and the intersection of health and technology.
 
 #### 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navyabajwa).
 <!--
