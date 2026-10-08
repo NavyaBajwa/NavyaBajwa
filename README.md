@@ -5,7 +5,7 @@
 
 #### 🔮 I’m currently learning about: AI safety, computer vision, and the intersection of health and technology.
 
-#### 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navyabajwa).
+#### 📮 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navyabajwa).
 
 #### 🐙 You can also check out my website here: [Navya's website!](https://navyabajwa.com/)
 <!--
