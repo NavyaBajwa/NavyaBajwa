@@ -7,7 +7,7 @@
 
 #### 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navyabajwa).
 
-#### 🐙 You can also check out my website here: [Navya's website!](https://navyabajwa.com/).
+#### 🐙 You can also check out my website here: [Navya's website!](https://navyabajwa.com/)
 <!--
 **NavyaBajwa/NavyaBajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
