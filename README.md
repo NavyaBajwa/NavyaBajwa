@@ -1,11 +1,13 @@
 ## Hi! I'm Navya Bajwa 🧚‍♀️
-#### I'm a computer science student at Queen's University with a passion for computer vision, robotics, and ai.
+#### I'm a computer science student at Queen's University with a passion for computer vision, medicine, and AI.
 
-#### ⚡ I’m currently working on: Recognizing morse code (blinks) with computer vision and a custom CNN!
+#### ⚡ I’m currently working on: Recognizing morse code (blinks) with computer vision!
 
 #### 🔮 I’m currently learning about: AI safety, computer vision, and the intersection of health and technology.
 
 #### 📫 How to reach me: Here's my [LinkedIn](https://www.linkedin.com/in/navyabajwa).
+
+#### 🐙 You can also check out my website here: [Navya's website!](https://navyabajwa.com/).
 <!--
 **NavyaBajwa/NavyaBajwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
